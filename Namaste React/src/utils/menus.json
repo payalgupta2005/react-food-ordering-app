@@ -1,0 +1,82 @@
+{
+  "101": {
+    "cards": [{}, {}, { "card": { "card": { "info": { "name": "Burger King", "cuisines": ["Burgers"], "avgRating": "4.3", "costForTwoMessage": "₹350 for two" } } } }],
+    "menu": [
+      { "id": "1", "name": "Veg Burger", "price": 120 },
+      { "id": "2", "name": "Chicken Burger", "price": 150 },
+      { "id": "3", "name": "Fries", "price": 80 }
+    ]
+  },
+
+  "103": {
+    "cards": [{}, {}, { "card": { "card": { "info": { "name": "KFC", "cuisines": ["Chicken"], "avgRating": "4.2", "costForTwoMessage": "₹450 for two" } } } }],
+    "menu": [
+      { "id": "1", "name": "Zinger Burger", "price": 180 },
+      { "id": "2", "name": "Chicken Bucket", "price": 399 },
+      { "id": "3", "name": "Popcorn Chicken", "price": 150 }
+    ]
+  },
+
+  "104": {
+    "cards": [{}, {}, { "card": { "card": { "info": { "name": "Biryani Blues", "cuisines": ["Biryani"], "avgRating": "3.5", "costForTwoMessage": "₹300 for two" } } } }],
+    "menu": [
+      { "id": "1", "name": "Chicken Biryani", "price": 250 },
+      { "id": "2", "name": "Veg Biryani", "price": 180 },
+      { "id": "3", "name": "Raita", "price": 50 }
+    ]
+  },
+
+  "105": {
+    "cards": [{}, {}, { "card": { "card": { "info": { "name": "Haldiram's", "cuisines": ["Snacks"], "avgRating": "3.9", "costForTwoMessage": "₹250 for two" } } } }],
+    "menu": [
+      { "id": "1", "name": "Chole Bhature", "price": 120 },
+      { "id": "2", "name": "Raj Kachori", "price": 100 },
+      { "id": "3", "name": "Samosa", "price": 30 }
+    ]
+  },
+
+  "106": {
+    "cards": [{}, {}, { "card": { "card": { "info": { "name": "McDonald's", "cuisines": ["Fast Food"], "avgRating": "4.2", "costForTwoMessage": "₹300 for two" } } } }],
+    "menu": [
+      { "id": "1", "name": "McAloo Tikki", "price": 90 },
+      { "id": "2", "name": "McChicken", "price": 130 },
+      { "id": "3", "name": "Fries", "price": 80 }
+    ]
+  },
+
+  "107": {
+    "cards": [{}, {}, { "card": { "card": { "info": { "name": "Pizza Hut", "cuisines": ["Pizza"], "avgRating": "4.3", "costForTwoMessage": "₹420 for two" } } } }],
+    "menu": [
+      { "id": "1", "name": "Margherita Pizza", "price": 199 },
+      { "id": "2", "name": "Farmhouse Pizza", "price": 299 },
+      { "id": "3", "name": "Garlic Bread", "price": 120 }
+    ]
+  },
+
+  "108": {
+    "cards": [{}, {}, { "card": { "card": { "info": { "name": "Subway", "cuisines": ["Sandwich"], "avgRating": "4.1", "costForTwoMessage": "₹250 for two" } } } }],
+    "menu": [
+      { "id": "1", "name": "Veg Sub", "price": 150 },
+      { "id": "2", "name": "Chicken Sub", "price": 180 },
+      { "id": "3", "name": "Cookies", "price": 60 }
+    ]
+  },
+
+  "110": {
+    "cards": [{}, {}, { "card": { "card": { "info": { "name": "Wow Momo", "cuisines": ["Momos"], "avgRating": "4.0", "costForTwoMessage": "₹200 for two" } } } }],
+    "menu": [
+      { "id": "1", "name": "Veg Momos", "price": 100 },
+      { "id": "2", "name": "Chicken Momos", "price": 120 },
+      { "id": "3", "name": "Fried Momos", "price": 140 }
+    ]
+  },
+
+  "111": {
+    "cards": [{}, {}, { "card": { "card": { "info": { "name": "Chai Point", "cuisines": ["Tea"], "avgRating": "4.3", "costForTwoMessage": "₹150 for two" } } } }],
+    "menu": [
+      { "id": "1", "name": "Masala Chai", "price": 30 },
+      { "id": "2", "name": "Green Tea", "price": 40 },
+      { "id": "3", "name": "Samosa", "price": 25 }
+    ]
+  }
+}
